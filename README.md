@@ -1,5 +1,9 @@
 # React 入门教程
 
+> 原文：[React 入门教程](https://github.com/hulufei/react-tutorial)
+
+> 作者：[hulufei](https://github.com/hulufei)
+
 按照惯例，在介绍一个新技术之前总是要为它背书的，作为 React
 受众在开始接触之前肯定会有一些喜闻乐见的疑问：
 
